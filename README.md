@@ -1,6 +1,6 @@
 # hipercorn
 
-[![Docker build](https://img.shields.io/docker/automated/fundanie/hipercorn)](https://hub.docker.com/r/fundanie/hipercorn)
+[![Docker build](https://img.shields.io/docker/automated/fundanie/hypercorn)](https://hub.docker.com/r/fundanie/hypercorn)
 
 
 Docker image with hypercorn ASGI and python 3.9.11 that you can use as a base image for your project. Define your Dockerfile as shown below:
