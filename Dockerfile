@@ -2,7 +2,6 @@ FROM python:3.9.11-alpine as builder
 
 RUN apk update
 RUN apk upgrade
-# RUN apk add gcc musl-dev python3-dev libffi-dev openssl-dev cargo
 
 # install dependencies
 RUN pip install -U pip
