@@ -1,0 +1,8 @@
+h11==0.13.0
+h2==4.1.0
+hpack==4.0.0
+hypercorn==0.13.2
+hyperframe==6.0.1
+priority==2.0.0
+toml==0.10.2
+wsproto==1.1.0
