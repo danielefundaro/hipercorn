@@ -1,4 +1,4 @@
-# hipercorn
+# hypercorn
 
 [![Docker build](https://img.shields.io/docker/automated/fundanie/hypercorn)](https://hub.docker.com/r/fundanie/hypercorn)
 
